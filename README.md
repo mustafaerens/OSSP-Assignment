@@ -8,3 +8,5 @@ I installed Xubuntu 24.10 LTS on VMware workstation. The process i used involved
 **Part B: System call**
 
 I implemented a system call in the linux kernel to remove an empty directory. It involved first creating an empty directory then removing it.
+
+[📄 Click here to view the full assignment document (PDF)](./OSSP_Individual_Hanan-Seid-Mohammed_BDU1601698_B.pdf)
